@@ -14,3 +14,7 @@ for (let i = 1; i <= 5; i++) { //890 pokemon
 Promise.all(promises).then(results => {
   console.log(results);
 });
+
+
+//Once I get the array of information I need to manipulate it into categories and be able to extract that as the name and type of pokemon. 
+//the json portion of this was confusing me and added to complications. 
