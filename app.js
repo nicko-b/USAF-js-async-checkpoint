@@ -18,3 +18,6 @@ Promise.all(promises).then(results => {
 
 //Once I get the array of information I need to manipulate it into categories and be able to extract that as the name and type of pokemon. 
 //the json portion of this was confusing me and added to complications. 
+
+//now that I looked through this again was I getting my list from the website or from the text file?
+//I have a habit of overcomplicating things and just need to do only as the instructions have asked me to do
